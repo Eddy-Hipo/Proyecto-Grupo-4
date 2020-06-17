@@ -1,0 +1,25 @@
+body{
+	background: #BDBDBD;
+}
+
+img{
+  width: 100px;
+  height: 100px;
+}
+
+div img {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-top: auto;
+}
+
+.rounded{
+	border-radius: 200px;
+	
+}
